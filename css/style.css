@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+:root{
+	--color-hover-menu:#FE8F01;
+}
+body{
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+}
+header{
+	background-color: #3d3d3d;
+	padding: 10px 0;
+}
+footer{
+	background-color: #333333;
+	color: #bababa;
+	padding: 15px 0;
+	text-align: center;
+}
+
+#about-us{
+padding: 40px 0;
+
+}
+
+
+
+#about-us h2 {
+	text-align: center;
+	padding: 45px 0;
+		
+}
+#about-us .card {
+	padding: 20px 0;
+	background-color: #333333; 
+	color: white;
+	text-align: center;
+}
+
+#about-us i{
+	color: white;
+	font-size: 50px;
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	border: 5px solid #ddd;
+	border-radius: 100%;
+	background-color: orange;
+}
+
+#counter {
+color: white;
+background-color: #010101;
+text-align: center;
+
+}
+
+#counter i {
+font-size: 45px;
+color: white;
+}
+
+#counter p {
+	color: orange;
+}
+
+
+
